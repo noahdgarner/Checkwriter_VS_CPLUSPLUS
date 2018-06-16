@@ -16,7 +16,7 @@ string makeString(unsigned long int num);		//prototypes
 void checkWriter(void);
 
 int main() {
-	cout << "Enter integer values. Enter zero to stop.\n";
+	cout << "Enter some integer values. Enter zero to stop.\n";
 	checkWriter();
 	cout << "Program ending, have a nice day!";
 	return 0;
